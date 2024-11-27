@@ -1,5 +1,3 @@
-import './App.css';
-
 import Banner from './components/Banner';
 import Cart from './components/Cart';
 
