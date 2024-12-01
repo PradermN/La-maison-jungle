@@ -28,6 +28,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![lyrata](https://github.com/user-attachments/assets/80ce3ef2-8a70-4de4-8a4b-f5f59948397d)
+
 
 ### `npm run eject`
 
@@ -45,7 +47,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Code Splitting![lyrata](https://github.com/user-attachments/assets/aba8efd2-a3cf-4d19-9abc-f872e52a8a7e)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
